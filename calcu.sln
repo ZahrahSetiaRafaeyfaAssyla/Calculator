@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcu", "calcu\calcu.csproj", "{281B5DE5-B2FA-4260-B13C-51EDDE0BB15A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ll", "ll\ll.vdproj", "{0CE66787-2FD4-469C-A508-8E808FC5830A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281B5DE5-B2FA-4260-B13C-51EDDE0BB15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281B5DE5-B2FA-4260-B13C-51EDDE0BB15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281B5DE5-B2FA-4260-B13C-51EDDE0BB15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281B5DE5-B2FA-4260-B13C-51EDDE0BB15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE66787-2FD4-469C-A508-8E808FC5830A}.Debug|Any CPU.ActiveCfg = Debug
+		{0CE66787-2FD4-469C-A508-8E808FC5830A}.Release|Any CPU.ActiveCfg = Release
+		{0CE66787-2FD4-469C-A508-8E808FC5830A}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27F69540-1EC5-40D9-82CA-0C4AAB794670}
+	EndGlobalSection
+EndGlobal
